@@ -1,0 +1,12 @@
+/*Archivo de estilos*/
+
+body {
+    margin: 0cm;
+}
+
+.cover {
+    height: 400px;
+    background-color: darkred;
+    /*background-image: url(C:\Users\JoelCancax\Documents\Paginaweb\prueba\239825112_2867270313585420_8667671156374139098_n.jpg   );*/
+    color: white;
+}
